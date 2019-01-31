@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        // À COMPLETER
+        Systeme.out.println("Salut le monde");
     }
 }
